@@ -40,8 +40,7 @@ npm run dev
 ```
 
 ## 🌐 Live Demo
-
-(Add after deploying on Vercel/Netlify)
+https://movieexploreer.netlify.app/
 
 ## 👩‍💻 Author
 
